@@ -1,0 +1,18 @@
+{
+  "plans": [
+    {
+      "cluster": "x",
+      "fee": 30,
+      "future_fee_saving": 100,
+      "inputs": [
+        "a",
+        "b"
+      ],
+      "net_saving": 70,
+      "output_value": 170,
+      "worthwhile": true
+    }
+  ],
+  "total_immediate_fee": 30,
+  "total_net_saving": 70
+}

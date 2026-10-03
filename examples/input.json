@@ -1,0 +1,19 @@
+{
+  "current_fee_rate": 1,
+  "future_fee_rate": 10,
+  "input_bytes": 10,
+  "output_bytes": 5,
+  "overhead_bytes": 5,
+  "coins": [
+    {
+      "id": "a",
+      "value": 100,
+      "cluster": "x"
+    },
+    {
+      "id": "b",
+      "value": 100,
+      "cluster": "x"
+    }
+  ]
+}
